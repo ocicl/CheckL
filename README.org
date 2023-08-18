@@ -1,0 +1,9 @@
+* CheckL
+
+Why write programs in Common Lisp but tests like Java? Meet CheckL!
+
+|---------+----------------------------------------|
+| source  | git:https://github.com/rpav/CheckL.git |
+| commit  | 8032880                                |
+| systems | checkl                                 |
+|---------+----------------------------------------|
